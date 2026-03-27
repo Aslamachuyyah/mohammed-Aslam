@@ -29,6 +29,8 @@
 - 🌐 Web Penetration Testing Reports
 - 🔍 Nmap Network Scanning
 - 📝 TryHackMe Writeups
+- wazhu
+- splunk
 
 ---
 
